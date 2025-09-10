@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.exemplo.nanoprata'
+    namespace 'com.web.web.nanoprata'
     compileSdk 34
 
     defaultConfig {
